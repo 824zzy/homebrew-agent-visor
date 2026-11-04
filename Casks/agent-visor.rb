@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
 cask "agent-visor" do
-  version "2.9.2"
-  sha256 "f357408c94f175b735f26770ea663ca67390ad77c34f17b730aa7b269dc8e9b1"
+  version "2.9.3"
+  sha256 "ef9d8384bca08f0895456fff07552bad223b3a1d9846b52c689e532d7b00f0a0"
 
   url "https://github.com/824zzy/agent-visor/releases/download/v#{version}/AgentVisor-v#{version}.zip"
   name "Agent Visor"
